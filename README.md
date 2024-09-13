@@ -1,19 +1,17 @@
 ## Hello 😃
 
-My nickname: **Bedrock**
+🌴 I am a beginner developer (1.5 years in programming)
 
-I am a beginner developer (1.5 years in programming)
+🏆 Also writing plugins for Minecraft for about a year!
 
-Also writing plugins for Minecraft for about a year!
-
-I currently live in **Russia**
+🔊 Speak: Russia
 
 ## 💎Skills:
-I have been developing programs in **Java** for 1.5 years
+🎈 I have been developing programs in **Java** for 1.5 years
 
-I write plugins for minecraft (Spigot Api/Paper Api)
+🧊 I write plugins for minecraft (Spigot Api/Paper Api)
 
-I learn **Kotlin** and **C++**
+👓 I learn **Kotlin** and **C++**
 
 ## 📣My social networks:
-Discord - @bedrock67
+🟣 Discord - @bedrock67
