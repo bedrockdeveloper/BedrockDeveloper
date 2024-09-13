@@ -1,4 +1,4 @@
-## Hello 😃
+## 😃 About me:
 
 🌴 I am a beginner developer (1.5 years in programming)
 
@@ -16,5 +16,7 @@
 ## 📣 My social networks:
 🟣 Discord - @bedrock67
 
+🔵 Telegram - [Bedrock](https://t.me/bedrockdeveloper)
+
 ## 🎭 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bedrock67&theme=bear)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bedrock67&theme=ocean_dark)
