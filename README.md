@@ -12,7 +12,7 @@
 
 🧊 I write plugins for minecraft (Spigot Api/Paper Api)
 
-👓 I learn **Kotlin** and **C++**
+👓 I learn **Web**
 
 ## 📣 My social networks:
 
