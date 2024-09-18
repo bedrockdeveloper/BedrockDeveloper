@@ -16,7 +16,7 @@
 
 ## 📣 My social networks:
 
-🟣 Discord - @bedrock67
+🟣 Discord - @bedrockdeveloper
 
 ## 🎭 Stats
 
