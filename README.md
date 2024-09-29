@@ -6,7 +6,7 @@
 
 🔊 Speak: Russian
 
-🌍 Location: Russi
+🌍 Location: Russia
 
 ## 💎 Skills:
 
