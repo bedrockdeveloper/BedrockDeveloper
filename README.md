@@ -6,13 +6,13 @@
 
 🔊 Speak: Russian
 
+🌍 Location: Russi
+
 ## 💎 Skills:
 
 🎈 I have been developing programs in **Java** for 1.5 years
 
 🧊 I write plugins for minecraft (Spigot Api/Paper Api)
-
-👓 I learn **Web**
 
 ## 📣 My social networks:
 
