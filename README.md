@@ -12,8 +12,6 @@
 
 🎈 I have been developing programs in **Java** for 1.5 years
 
-🧊 I write plugins for minecraft (Spigot Api/Paper Api)
-
 ## 📣 My social networks:
 
 🟣 Discord - @bedrockdeveloper
